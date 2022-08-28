@@ -4,7 +4,7 @@ Universal(single platform) Tracking Of Customer Loyalty Points using BlockChain 
 
 Implementation : Backend--> SOLIDITY
 
-Front-End: HTML , CSS , Js
+Front-End: HTML , CSS , JavaScript
 
 Softwares used : Ganache(Local Blockchain) ,Truffle Suite(Live BlockChain deployment) , Vs Code , MetaMask(virtual crypto purpose-browser extension -testing), Nodejs(Backend Runtime environment)
 
